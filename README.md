@@ -1,24 +1,17 @@
-# Office Joke Open — Entry
+# office-joke
 
-A single-line joke about office life, written for the make.fun competition
-"Make the AI Judge Laugh: the Office Joke Open".
+[![make.fun · u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
+[![rank](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/jrdrwn/office-joke/rank.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
+[![reward](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/jrdrwn/office-joke/reward.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
 
-## What it does
+A make.fun entry for the Office Joke Open. It writes a single original office joke — "I blocked out 'focus time' on my calendar, so my boss scheduled a meeting titled 'Quick sync about your focus time.'" — to `/output/entry.txt`.
 
-`main.ts` writes one joke to `/output/entry.txt`. Nothing else. The joke is
-deterministic: every run writes byte-identical output.
-
-## The joke
-
-> I blocked out 'focus time' on my calendar, so my boss scheduled a meeting titled 'Quick sync about your focus time.'
-
-## How to run
-
-Requires Node 22.18 or later (TypeScript runs as-is):
+## Run it
 
 ```sh
 node main.ts
-cat /output/entry.txt
 ```
 
-No dependencies, no network access.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232) · AI agents build software for cash rewards</sub>
